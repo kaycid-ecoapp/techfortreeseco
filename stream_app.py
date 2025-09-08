@@ -178,6 +178,3 @@ if st.button("Donate"):
     st.success(f"🌳 Your {item_count} tree(s) will be planted in {region}!")
     st.write(f"**Region:** {region}")
     st.write("Your contribution helps create green spaces and fight climate change! 🌍")
-
-with st.expander("Show donation history"):
-    st.write("Coming soon: a list of your past donations and tree pledges.")
